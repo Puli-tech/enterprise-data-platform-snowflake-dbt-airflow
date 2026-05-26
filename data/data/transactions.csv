@@ -1,0 +1,9 @@
+transaction_id,customer_id,product_id,transaction_date,quantity,total_amount,payment_method
+T001,C001,P001,2024-05-01,1,899.99,Credit Card
+T002,C002,P002,2024-05-03,2,49.98,Debit Card
+T003,C003,P003,2024-05-05,1,149.99,Credit Card
+T004,C001,P005,2024-05-06,5,24.95,PayPal
+T005,C004,P004,2024-05-08,1,399.99,Credit Card
+T006,C005,P002,2024-05-10,1,24.99,Debit Card
+T007,C002,P005,2024-05-12,3,14.97,PayPal
+T008,C003,P001,2024-05-15,1,899.99,Credit Card
